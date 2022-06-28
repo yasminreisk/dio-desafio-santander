@@ -1,0 +1,33 @@
+		    Git e Github
+
+Comandos para o Windows:
+
+-cd 
+-dir 
+-mkdir
+-del/ rmdir
+
+O comando dir, no promp de comando, busca todos os 
+diretórios na pasta situada.
+
+Para ir a uma pasta específica, usa-se o "change directory"
+cd:
+
+cd/ - leva para a base do diretório C
+cd... (alguma pasta)
+
+Com cd + TAB, completa o nome da pasta: "Windows"
+
+Para criar uma pasta:
+
+mkdir "nome da pasta", se depois colocar o dir, aparece 
+pasta criada no final.
+Dá um cd "nome da pasta"
+Para criar arquivos no terminal, usa o echo + alguma palavra,
+depois "echo+palavra > nome do arquivo.txt", depois "dir"
+de novo.
+
+Para deletar, só dar "del + nome da pasta"
+O ↑ navega no histórico.
+Já com o rmdir, remove o diretório. Ex: rmdir workspace/S/
+Q, dir.
